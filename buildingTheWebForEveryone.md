@@ -19,3 +19,5 @@ As a new software developer, I have been researching ways to improve my apps to 
 When we talk about accessibility, don’t think only about people with disabilities, think globally. Many mobile apps have restrictions on the OS version, many times not being necessary at all. Many companies try to use as many resources as possible from phones to “improve ads”, like location, connection, screen resolution, and other features. What about people that have an older phone, or a smart phone with low resources?
 
 When thinking UX/UI, think about the meaning of the first letter in those acronyms, USER. The main point is to have as many people to use and enjoy you creation, so make it as easy as possible for everyone. Want to test out your app, ask an elderly person to use it and give you feedback. Research as much as possible on how to improve your app, and even if you don’t launch it with full accessibility, make it a priority for the next release.
+
+**Article not yet published.**
