@@ -1,6 +1,6 @@
 # Building the WEB for Everyone.
 
-The idea that the internet reached 4.5B people in 2019 is insane. According to internetworldstats.com, 58.8% of the world population is online. But how much of the internet is actually for everyone? A study from Perrill(formerly first scribe), show that only 1% of websites and web apps are ADA compliant. Investing in UI/UX is a great deal for anybody building a website/app, but always think of all users, not just the majority of users.
+The idea that the internet reached 4.5B people in 2019 is insane. According to [internetworldstats.com](https://internetworldstats.com/stats.htm), 58.8% of the world population is online. But how much of the internet is actually for everyone? A study from [Perrill(formerly first scribe)](https://www.perrill.com/why-accessibility-should-be-a-top-priority-for-every-business-website/), show that only 1% of websites and web apps are ADA compliant. Investing in UI/UX is a great deal for anybody building a website/app, but always think of all users, not just the majority of users.
 
 Most developers want to build an app that will get a lot of attention, be the next startup to make it big, but usually don’t stop to think that their website/app has to be accessible to everyone. The rules for building a website that is accessible for all may be difficult at first, time-consuming and even expensive, but the outcome could be positive for all users.
 
