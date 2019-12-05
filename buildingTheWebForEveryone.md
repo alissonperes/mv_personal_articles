@@ -20,4 +20,6 @@ When we talk about accessibility, don’t think only about people with disabilit
 
 When thinking UX/UI, think about the meaning of the first letter in those acronyms, USER. The main point is to have as many people to use and enjoy you creation, so make it as easy as possible for everyone. Want to test out your app, ask an elderly person to use it and give you feedback. Research as much as possible on how to improve your app, and even if you don’t launch it with full accessibility, make it a priority for the next release.
 
-**Article not yet published.**
+**Online article links.**
+[Hackernoon](https://hackernoon.com/building-the-web-for-everyone-rf272a40)
+[Medium](https://medium.com/@alissonperes/building-an-internet-for-all-69ed6037bff3)
